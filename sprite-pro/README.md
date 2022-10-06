@@ -1,3 +1,7 @@
+# Creality Ender 3 Pro
+## Hotend: Creality Sprite Pro
+## Ultimaker Cura 5.1.1
+
 TPU
 ###
 ```
