@@ -1,4 +1,5 @@
-# Ender3 Pro with Spider Hotend
+# Creality Ender 3 Pro
+## Hotend: Creality Spider
 ## Ultimaker Cura 5.0.0
 
 ```
