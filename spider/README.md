@@ -9,3 +9,5 @@
   Support Overhang Angle 60
   Support tree
 ```
+
+![hotend](https://github.com/nopp/e3pro-cura-profiles/blob/main/spider/spider.jpg)
