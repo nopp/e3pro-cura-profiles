@@ -6,9 +6,12 @@ TPU
 ###
 ```
   Temp 220c
-  Print Speed 40mm/s
+  Print Speed 60mm/s
+  Wall Speed 50mm/s
+  Top/Bottom Speed 50mms/s
+  Initial layer Speed 50mm/s
   Retraction Distance 1.1mm
-  Retraction Speed 60mm/s
+  Retraction Speed 70mm/s
   Build Plate Temperature 0.0
 ```  
 
