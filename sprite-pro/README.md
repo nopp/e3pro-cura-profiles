@@ -28,11 +28,15 @@ PLA
 PETG
 ####
 ```
-  Temp 245
-  Print Speed 50mm/s
+  Temp 240
+  Print Speed 55mm/s
+  Wall Speed 40mm/s
+  Top/Bottom Speed 40mm/s
+  Support Speed 40mm/s
+  Initial Layer Speed 30mm/s
   Retraction Distance 3.0mm
   Retraction Speed 20mm/s
-  Build Plate Temperature 80c
+  Build Plate Temperature 70c
 ```
 
 ![hotend](https://github.com/nopp/e3pro-cura-profiles/blob/main/sprite-pro/spritepro.png)
